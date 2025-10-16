@@ -1,4 +1,4 @@
-<p style="font-size:60px;"><b><i>Introduction:</i></b></p>
+<p style="font-size:100px;"><b><i>Introduction:</i></b></p>
 
   The goal of this assignment is to create a basic calculator, giving the user the freedom to select the type of calculator they wish to use, such as a general calculator, a scientific calculator, or a unit converter. In addition to creating a calculator, one of the objectives of this assignment was to foster complete teamwork and build consensus among team members before embarking on the final project.
 
