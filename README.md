@@ -11,7 +11,13 @@ Ibrahim Alamoudi                   16.6%                                      Wo
 
 #------------------------------------
 Smaples of main running code:
-
+Welcome to Multi-Mode Calculator
+1. Standard Mode
+2. Programmer Mode
+3. Scientific Mode
+4. Converter Mode
+5. Exit
+Enter your choice: 
 
 #------------------------------------
 Smaples of running standard code:
