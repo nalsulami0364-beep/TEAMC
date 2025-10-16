@@ -14,7 +14,7 @@ Smaples of main running code:
 
 
 Welcome to Multi-Mode Calculator
-![Program Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Desktop%20Screenshot%202025.10.15%20-%2018.34.12.09.png?raw=true)
+
 
 #------------------------------------
 Smaples of running standard code:
