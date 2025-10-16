@@ -16,7 +16,7 @@
 
 ## Samples of each code:
 
-
+#------------------------------------
 #Smaple of main running code:
 ![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174424.png?raw=true)
 
