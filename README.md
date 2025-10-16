@@ -43,3 +43,8 @@
 
 ![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174533.png?raw=true)
 
+## *Conclusion*
+
+
+  through this project, the team successfully collaborated, building consensus and coordinating efforts effectively. All tasks have been completed successfully, and the project is fully functional. This assignment not only fulfilled its technical objectives but also strengthened teamwork skills, preparing the team for future projects.
+
