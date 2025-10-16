@@ -120,4 +120,5 @@ def htd():
         return "Error: Please enter a valid hexadecimal number."
 
 if __name__ == "__main__":
-    programmer_menu()
+    print(programmer_menu())
+
