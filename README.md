@@ -14,13 +14,7 @@ Smaples of main running code:
 
 
 Welcome to Multi-Mode Calculator
-1. Standard Mode
-2. Programmer Mode
-3. Scientific Mode
-4. Converter Mode
-5. Exit
-Enter your choice: 
-
+Desktop Screenshot 2025.10.15 - 18.34.12.09.png
 #------------------------------------
 Smaples of running standard code:
 
