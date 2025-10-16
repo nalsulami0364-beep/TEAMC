@@ -14,24 +14,26 @@
 | Tamem Alshehri ...|............ 16.6% ...........|....Work on converter code file .............|
 | Ibrahim Alamoudi .|............ 16.6% ...........|....Work on scientific code file ............|
 
-#------------------------------------
-#Smaples of main running code:
+## Samples of each code:
+
+
+#Smaple of main running code:
 ![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174424.png?raw=true)
 
 
 #------------------------------------
-#Smaples of running standard code:
+#Smaple of running standard code:
 
 ![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174533.png?raw=true)
 
 
 #------------------------------------
-#Smaples of running programmer code:
+#Smaple of running programmer code:
 
 ![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_175101.png?raw=true)
 
 #------------------------------------
-#Smaples of running scientific code:
+#Smaple of running scientific code:
 ![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174747.png?raw=true)
 
 
