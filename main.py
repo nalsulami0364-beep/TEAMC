@@ -33,21 +33,24 @@ def main():
             print(f"5. Exit")
             choice = correctNumber("Enter your choice: " , range(1,6))
             if choice == 1:
-                standard()
+                print(standard())
             elif choice == 2:
-                programmer_menu()
+                print(programmer_menu())
             elif choice == 3:
-                scientific_main()
+                print(scientific_main())
             elif choice == 4:
-                converter_menu()
-            elif choice == 5:
-                print("Thank you for using Multi-Mode Calculator")
-                break
+                print(converter_menu())
+
+                again = input("\nDo you want to perform another operation? (y/n): ").lower()
+                if again != 'y':
+                    print("Thank you for using Multi-Mode Calculator")
+                    break
         except KeyboardInterrupt:
             print(f"Input canceled. Returning to menu.")
             continue
 if __name__ == "__main__":
     main()
+
 
 
 
