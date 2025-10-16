@@ -59,20 +59,32 @@ Enter binary number: 1010
 decimal: 10
 #------------------------------------
 Smaples of running converter code:
+1. Standard Mode
+2. Programmer Mode
+3. Scientific Mode
+4. Converter Mode
+5. Exit
+Enter your choice: 4
+Converter Mode
+Category: length, weight, volume, temperature
+Choose category: length
+From unit: cm
+To unit: m
+Value: 150
+The result is: 1.50
 
+Do you want to perform another operation? (y/n): n
+Thank you for using Multi-Mode Calculator
 #------------------------------------
-Smaples of running scientific code:
 1. Standard Mode
 2. Programmer Mode
 3. Scientific Mode
 4. Converter Mode
 5. Exit
 Enter your choice: 3
-Enter function: cis
-error ---> Invalid function name or unspported function
-Enter function: cos
-Degree or radian? degree
-Enter value: 90
+Enter function: sin
+Degree or radian? degREe
+Enter value: 180
 
-Result of cos ( 90 )  is:  0.0
+Result of sin ( 180 )  is:  0.0
 
