@@ -33,13 +33,13 @@ def main():
             print(f"5. Exit")
             choice = correctNumber("Enter your choice: " , range(1,6))
             if choice == 1:
-                print(standard())
+                standard()
             elif choice == 2:
                 print(programmer_menu())
             elif choice == 3:
-                print(scientific_main())
+                scientific_main()
             elif choice == 4:
-                print(converter_menu())
+                converter_menu()
 
                 again = input("\nDo you want to perform another operation? (y/n): ").lower()
                 if again != 'y':
@@ -50,6 +50,7 @@ def main():
             continue
 if __name__ == "__main__":
     main()
+
 
 
 
