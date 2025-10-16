@@ -14,12 +14,11 @@
 ![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174424.png?raw=true)
 
 
-
-
 #------------------------------------
 #Smaples of running standard code:
 
-![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174424.png?raw=true)
+![Project Screenshot](https://github.com/nalsulami0364-beep/TEAMC/blob/main/Screenshot_2025-10-16_174533.png?raw=true)
+
 
 #------------------------------------
 #Smaples of running programmer code:
