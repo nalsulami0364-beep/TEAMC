@@ -10,8 +10,7 @@ Tamem Alshehri                     16.6%                                      Wo
 Ibrahim Alamoudi                   16.6%                                      Work on scientific code file
 
 #------------------------------------
-Smaples of running code:
-Main code:
+Smaples of main running code:
 
 #------------------------------------
 Smaples of running standard code:
