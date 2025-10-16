@@ -11,6 +11,8 @@ Ibrahim Alamoudi                   16.6%                                      Wo
 
 #------------------------------------
 Smaples of main running code:
+
+
 Welcome to Multi-Mode Calculator
 1. Standard Mode
 2. Programmer Mode
@@ -21,12 +23,7 @@ Enter your choice:
 
 #------------------------------------
 Smaples of running standard code:
-1. Standard Mode
-2. Programmer Mode
-3. Scientific Mode
-4. Converter Mode
-5. Exit
-Enter your choice: 1
+
 
 Started program
 Standard Calculater
@@ -40,18 +37,16 @@ Standard Calculater
 #8 Reciprocal
 #9 Percentage
 #10 Exit
+
 Enter any operation you want from 1 to 10:4
+
 Enter first number: 10
+
 Enter second number: 0
+
 Result =  Error, you can't divide by zero.
 #------------------------------------
-Smaples of running programmer code:
-1. Standard Mode
-2. Programmer Mode
-3. Scientific Mode
-4. Converter Mode
-5. Exit
-Enter your choice: 2
+
 Enter 1 if you want conversation calculator
  Enter 2 if you want Bitwise calculator:1
 Enter 1 - Decimal to Binary
