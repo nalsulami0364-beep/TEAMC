@@ -7,12 +7,12 @@
 
 | Members ..........|....Percentage Contributions..|------ Who Did What -------------------------|
 |-------------------|------------------------------|---------------------------------------------|
-| Nawaf Alsulami ...|............ 16.6% ...........|....Manage the other files and the main file |
-| Yaser Aljehani ...|.............16.6% ...........|....Work on standard code file |
-| Mohammed Alghamdi |............ 16.6% ...........|....Work on programmer code file|
-| Bader bin Swid ...|............ 16.6% ...........|....Work on programmer code file|
-| Tamem Alshehri ...|............ 16.6% ...........|....Work on converter code file|
-| Ibrahim Alamoudi .|............ 16.6% ...........|....Work on scientific code file ............|
+| Nawaf Alsulami ...|............ 16.6% |Manage the other files and the main file |
+| Yaser Aljehani ...|.............16.6% |Work on standard code file |
+| Mohammed Alghamdi |............ 16.6% |Work on programmer code file|
+| Bader bin Swid ...|............ 16.6% |work on programmer code file|
+| Tamem Alshehri ...|............ 16.6% |Work on converter code file|
+| Ibrahim Alamoudi .|............ 16.6% |Work on scientific code file|
 
 ## Samples of each code:
 
